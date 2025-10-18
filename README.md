@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Muhammed Utuş
 
-![Banner](https://your-image-link.com/banner.png)
+![Banner](https://media.discordapp.net/attachments/742141389629816893/1429233753565302814/Anime_Background_Youtube_Channel_Art.gif?ex=68f56528&is=68f413a8&hm=881fc0180efad6e4b558d60a06b3beebf48ee73a19ce570cdf2e393e0976687a&=&width=1521&height=856)
 
 ---
 
