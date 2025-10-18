@@ -67,7 +67,7 @@
 
 <h2>🎨 Project Showcase</h2>
 <div class="center projects">
-  <a href="https://github.com/muhammedutus/project1"><img src="https://camo.githubusercontent.com/project1-screenshot.png" alt="Project 1"></a>
+  <a href="https://github.com/muhammedutus/muhamcomtr"><img src="https://camo.githubusercontent.com/project1-screenshot.png" alt="Project 1"></a>
   <a href="https://github.com/muhammedutus/project2"><img src="https://camo.githubusercontent.com/project2-screenshot.png" alt="Project 2"></a>
   <a href="https://github.com/muhammedutus/project3"><img src="https://camo.githubusercontent.com/project3-screenshot.png" alt="Project 3"></a>
 </div>
