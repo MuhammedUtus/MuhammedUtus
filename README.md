@@ -1,59 +1,105 @@
-# 👋 Hello, I'm Muhammed Utuş
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Muham Studios GitHub Profile README</title>
+<style>
+  body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #0d1117; color: #c9d1d9; margin: 0; padding: 0; }
+  .banner { width: 100%; }
+  h1, h2, h3, h4 { text-align: center; }
+  .center { text-align: center; }
+  .badges img { margin: 5px; animation: glow 2s infinite alternate; }
+  @keyframes glow {
+    0% { filter: drop-shadow(0 0 5px #ff73fa); }
+    50% { filter: drop-shadow(0 0 20px #8cfffb); }
+    100% { filter: drop-shadow(0 0 5px #ff73fa); }
+  }
+  .projects img { width: 250px; margin: 10px; transition: transform 0.3s; }
+  .projects img:hover { transform: scale(1.1); }
+  .stats img, .streak img { margin: 10px; }
+  pre { background-color: #161b22; padding: 10px; border-radius: 5px; overflow-x: auto; }
+</style>
+</head>
+<body>
 
-![Banner](https://media.discordapp.net/attachments/742141389629816893/1429233753565302814/Anime_Background_Youtube_Channel_Art.gif?ex=68f56528&is=68f413a8&hm=881fc0180efad6e4b558d60a06b3beebf48ee73a19ce570cdf2e393e0976687a&=&width=1521&height=856)
+<!-- Banner -->
+<img class="banner" src="https://media.giphy.com/media/3o7TKsQ2Y1Q5RQx82w/giphy.gif" alt="Muham Studios Banner">
 
----
+<h1>👋 Hey, I'm Muhammed Utuş</h1>
+<p class="center">Full-Stack Web Developer at <strong>Muham Studios</strong> | Open-Source Enthusiast | UI/UX Lover</p>
 
-## 🚀 About Me
-I am a passionate **Web Developer** at **Muham Studios**.  
-💻 Full-stack web development | 🌐 Frontend & Backend | 🎨 UI/UX enthusiast  
+<hr>
 
-- 🔭 Currently working on **cutting-edge web projects** at Muham Studios  
-- 🌱 Learning **Next.js, TailwindCSS & modern web technologies**  
-- 👯 Open to **collaborations on innovative web projects**  
-- 💬 Ask me about **HTML, CSS, JavaScript, React, and project optimizations**  
+<h2>🌟 About Me</h2>
+<pre><code>+ Crafting pixel-perfect websites with passion
++ Obsessed with clean code & performance
++ Exploring cutting-edge web technologies every day
++ Sharing knowledge through open-source projects</code></pre>
+<p class="center">
+🔭 Currently working on next-gen web projects<br>
+🌱 Learning Next.js, TailwindCSS & AI web tools<br>
+💡 Fun fact: My coffee disappears faster than bugs 😎
+</p>
 
----
+<hr>
 
-## 🛠️ Tech Stack
-
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<h2>🛠️ My Tech Stack</h2>
+<div class="center badges">
+  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-2980B9?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F1C40F?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
----
+<hr>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=muhammedutus&show_icons=true&theme=radical"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedutus&layout=compact&theme=radical"/>
+<h2>🔥 Currently Coding</h2>
+<div class="center">
+  <img src="https://camo.githubusercontent.com/animated-coding.gif" width="500" alt="Currently Coding Animation">
+  <p><em>JavaScript → React → Next.js → TailwindCSS</em></p>
 </div>
 
----
+<hr>
 
-## 💡 Fun Fact
-
-> "Clean code is like magic – it makes everything else easier." ✨
-
----
-
-## 🌐 Connect with Me
-
-<div>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://discord.com/users/yourID"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<h2>🎨 Project Showcase</h2>
+<div class="center projects">
+  <a href="https://github.com/muhammedutus/project1"><img src="https://camo.githubusercontent.com/project1-screenshot.png" alt="Project 1"></a>
+  <a href="https://github.com/muhammedutus/project2"><img src="https://camo.githubusercontent.com/project2-screenshot.png" alt="Project 2"></a>
+  <a href="https://github.com/muhammedutus/project3"><img src="https://camo.githubusercontent.com/project3-screenshot.png" alt="Project 3"></a>
 </div>
 
----
+<hr>
 
-<div align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/muhammedutus">Muhammed Utuş</a> at Muham Studios</sub>
+<h2>📊 GitHub Stats</h2>
+<div class="center stats">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=muhammedutus&show_icons=true&theme=radical&count_private=true">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedutus&layout=compact&theme=radical">
 </div>
+
+<hr>
+
+<h2>🔥 GitHub Streak</h2>
+<p class="center streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedutus&theme=radical">
+</p>
+
+<hr>
+
+<h2>🌐 Connect With Me</h2>
+<div class="center badges">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://discord.com/users/yourID"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+<hr>
+
+<p class="center"><sub>Crafted with ❤️ at <strong>Muham Studios</strong> by <a href="https://github.com/muhammedutus">Muhammed Utuş</a></sub></p>
+
+</body>
+</html>
